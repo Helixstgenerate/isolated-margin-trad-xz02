@@ -1,4 +1,4 @@
-# 
+# elite isolated-margin trading bot Addon | trailing-stop + low-frequency offers the most advanced isolated-margin trading bot, with trailing-stop and low-frequency. Ideal for
 
 
 
